@@ -18,7 +18,7 @@ Peerzone is a collaborative online platform that fosters peer-to-peer collaborat
 
 ## Technologies Used
 
-- **Frontend**: Nuxt.js (version 3)
-- **Backend**: Django (version 4.2)
-- **Python**: 3.10
+- **Frontend**: Nuxt.js (version 3), Tailwind CSS
+- **Backend**: Django (version 4.2+)
+- **Python**: 3.10+
 - **Node.js**: 18+
