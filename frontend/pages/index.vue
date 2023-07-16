@@ -1,3 +1,3 @@
 <template>
-<h1>Coming Soon!</h1>
+<h1>This should be in preview not in production</h1>
 </template>
