@@ -26,3 +26,4 @@ Peerzone is a collaborative online platform that fosters peer-to-peer collaborat
 - ⚙️ **Node.js**: 18+
 
 Let's collaborate, connect, and create amazing things together on Peerzone!
+
