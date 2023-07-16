@@ -22,3 +22,6 @@ Peerzone is a collaborative online platform that fosters peer-to-peer collaborat
 - **Backend**: Django (version 4.2+)
 - **Python**: 3.10+
 - **Node.js**: 18+
+
+Live URL: https://peerzone.dev/
+
