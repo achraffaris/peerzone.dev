@@ -6,6 +6,8 @@ Welcome to Peerzone!
 
 Peerzone is a collaborative online platform that fosters peer-to-peer collaboration and connects individuals with diverse skills and interests. It provides a space where talented individuals can collaborate, form teams, and work together on projects to achieve shared goals.
 
+**Live URL: https://peerzone.dev/
+
 ## Features
 
 - **Collaboration Hub**: Discover exciting projects and connect with like-minded peers to form teams and collaborate on innovative initiatives.
@@ -23,5 +25,5 @@ Peerzone is a collaborative online platform that fosters peer-to-peer collaborat
 - **Python**: 3.10+
 - **Node.js**: 18+
 
-Live URL: https://peerzone.dev/
+
 
