@@ -23,6 +23,8 @@ jobs:
         python-version: ${{ matrix.python-version }}
     - name: Navigate to backend directory
       run: cd backend
+    - name: Testing current working directory
+      run: pwd
     - name: Install Dependencies
       run: |
         python -m pip install --upgrade pip
